@@ -76,7 +76,7 @@ $GLOBALS['TL_LANG']['MSC']['fineuploader.trans.messages'] = [
     'onLeave' => 'Dateien werden hochgeladen, wenn Sie die Seite jetzt verlassen, wird der Upload abgebrochen.',
 
     // Unrecoverable error - this browser does not permit file uploading of any kind due to serious bugs in iOS8 Safari.  Please use iOS8 Chrome until Apple fixes these issues.
-    'unsupportedBrowserIos8Safari' => 'Nicht zu behebender Fehler: Dieser Browser erlaubt keinen Dateiupload bedingt durch schwere FEhler in iOS8 Safari. Bitte nutzen Sie Chrome bis Apple diese Fehler behebt.',
+    'unsupportedBrowserIos8Safari' => 'Nicht zu behebender Fehler: Dieser Browser erlaubt keinen Dateiupload bedingt durch schwere Fehler in iOS8 Safari. Bitte nutzen Sie Chrome bis Apple diese Fehler behebt.',
 ];
 
 $GLOBALS['TL_LANG']['MSC']['fineuploader.trans.retry'] = [

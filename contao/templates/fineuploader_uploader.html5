@@ -8,7 +8,7 @@
     </div>
 
     <div class="qq-upload-button-selector qq-upload-button">
-        <div><?= $this->uploadButtonLabel ?: $GLOBALS['TL_LANG']['MSC']['fineuploader.upload'] ?></div>
+        <div><?= $this->uploadButtonTitle ?: $GLOBALS['TL_LANG']['MSC']['fineuploader.upload'] ?></div>
     </div>
 
     <span class="qq-drop-processing-selector qq-drop-processing">
